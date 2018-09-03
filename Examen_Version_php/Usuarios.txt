@@ -1,0 +1,4 @@
+Cuenta de usuarios:
+user1@gmail.com   pass: claveuser1
+user2@gmail.com   pass: claveuser2
+user3@gmail.com   pass: claveuser3
